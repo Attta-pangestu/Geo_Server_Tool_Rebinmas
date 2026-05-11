@@ -1,0 +1,6 @@
+{
+  "name": "UTM to WGS84 Converter",
+  "description": "Convert UTM coordinates to WGS84 from JSON inputs and export them to Excel or JSON formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
